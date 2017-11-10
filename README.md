@@ -1,0 +1,2 @@
+# JambiParadise
+LINE Bot JambiParadise
